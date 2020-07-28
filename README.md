@@ -1,2 +1,2 @@
 # learn_django
-First Project on Django
+First Project on Django(web-app)
